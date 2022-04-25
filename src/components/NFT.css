@@ -1,0 +1,29 @@
+.NFT {
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    box-shadow: 0 0 10px grey;
+    width: 45vh;
+    height: 25vh;
+}
+
+#title1 {
+    margin-bottom: 0;
+}
+
+.search-bar {
+    padding: 0;
+    float: right;
+}
+
+#block {
+    display: inline-block;
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.box {
+    margin-left: 10px;
+    margin-right: 10px;
+}

@@ -1,0 +1,58 @@
+{
+  "name": "market-vision",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "arrow-keys-react": "^1.0.6",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "canvasjs": "^1.8.3",
+    "chart.js": "^3.1.1",
+    "color-blind": "^0.1.1",
+    "cryptocurrencies": "^7.0.0",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "plotly.js": "^1.58.4",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2",
+    "react-intl": "^5.17.2",
+    "react-plotly.js": "^2.5.1",
+    "react-responsive-carousel": "^3.2.18",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-stockcharts": "^0.7.8",
+    "reactstrap": "^8.9.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts --expose-gc --max-old-space-size=8192 start",
+    "build": "react-scripts --expose-gc --max-old-space-size=8192 build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

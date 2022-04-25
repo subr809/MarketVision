@@ -1,0 +1,55 @@
+
+.MyInput {
+    margin-right:auto;
+	margin-left:auto;
+    margin-top:50px;
+    background-color: #f0f0f0;
+    border:1px solid rgb(189, 189, 189);
+}
+
+.MyInput td{
+    text-align: left;
+}
+
+.MyInput select{
+    width: 150px;
+}
+
+.MyInput td{
+    border-left: 1px solid #a3a3a3;
+    border-right: 1px solid #a3a3a3;
+}
+
+.data th{
+    background-color: #c0d1d1;
+    color: #000000;
+    text-align: center;
+}
+
+.data {
+    margin-top:50px;
+    border:1px solid rgb(189, 189, 189);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.data tr:nth-child(even){
+    background-color: #f0f0f0;
+}
+
+.data td{
+    border-left: 1px solid #a3a3a3;
+    border-right: 1px solid #a3a3a3;
+}
+
+
+.container2{
+	margin-right:auto;
+	margin-left:auto;
+	display:flex;
+}
